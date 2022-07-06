@@ -16,7 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        android:text=" Jasduit"
+        android:text=" JasDuit"
         android:textColor="@color/colorWhite"
         android:textSize="40sp"
         android:textStyle="bold"
