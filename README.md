@@ -9,7 +9,7 @@ User can edit and delete the task by swiping the task left and right respectivel
 <li> Open Android Studio. Go to File->Import Project. </li>
 <li>choose this project</li>
  <li>click Next->Finish.</li>
-<li> It will build the Gradle automatically and'll be ready for you to use.</li>
+<li> It will build the Gradle automatically and it'll be ready for you to use.</li>
 </ul>
   
  <h3> 2) To run the app on android phone you need to allow install apps from external source : </h3>
