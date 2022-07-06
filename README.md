@@ -1,5 +1,5 @@
 # Jasduit
-It's an app where user can add task and mark complete.
+It's a TO-DO List app where user can add task and mark complete.
 User can edit and delete the task by swiping the task left and right respectively.
 <a href="https://github.com/syahidahyunos/apk-android/raw/main/Jasduit.apk" download>Download the APK</a>
 
@@ -31,10 +31,13 @@ User can edit and delete the task by swiping the task left and right respectivel
  
  <img src="https://user-images.githubusercontent.com/60173833/177618180-da2a6773-fc9b-4f9c-8d2d-ea12b103e511.png" width="200" height="400" />
  
+ <img src="https://user-images.githubusercontent.com/60173833/177620471-8777939c-31d2-4be8-9d6e-08ebbe8a0fd9.png" width="200" height="400" />
+ 
  <img src="https://user-images.githubusercontent.com/60173833/177620208-1b7a0834-1ef7-40f7-9ca1-c1c6a89c33ff.png" width="200" height="400" />
  
-  <img src="https://user-images.githubusercontent.com/60173833/177620471-8777939c-31d2-4be8-9d6e-08ebbe8a0fd9.png" width="200" height="400" />
+ <img src="https://user-images.githubusercontent.com/60173833/177631936-51b18a32-a478-4890-9701-59dc784da509.png" width="200" height="400" />
  
+
 
 
  
